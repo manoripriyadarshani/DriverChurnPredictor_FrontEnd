@@ -1,0 +1,29 @@
+.title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  margin-left: 2.1rem;
+  color: #1c689e;
+}
+
+.li{
+  margin-bottom: 0.5rem;
+  margin-left: 5.1rem;
+}
+
+
+.ul {
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 20%);
+  padding: 30px;
+  border-radius: 6px;
+  margin: 10px;
+  background-color: #efdab5;
+
+}
+
+.frame {
+ width:100%;
+
+}
+
+ 
