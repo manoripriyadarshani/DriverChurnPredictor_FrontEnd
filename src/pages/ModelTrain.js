@@ -3,8 +3,8 @@ import Layout from '../component/layout/Layout';
 
 import React, { useState } from 'react'
  import classes from './ModelTrain.module.css';
-import CustomSelect from '../component/train/CustomSelect'
-import ResultItem from '../component/train/ResultItem';
+import CustomSelect from '../component/modeltrain/CustomSelect'
+import ResultItem from '../component/modeltrain/ResultItem';
 // import ModelTrainFormResult from "./ModelTrainFormResult";
 
 const algorithms = [
