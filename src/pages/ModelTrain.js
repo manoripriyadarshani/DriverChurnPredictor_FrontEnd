@@ -47,41 +47,29 @@ const algorithms = [
     {
       id: 6,
       name:'NB',
-      label: 'Stacking (NB,KNN +LR)',
+      label: 'Stacking (DT,SVM,RF +LR)',
       logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
     },
     {
       id: 7,
       name:'NB',
-      label: 'Stacking (DT,SVM,RF +LR)',
+      label: 'Bagging (DT)',
       logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
     },
     {
       id: 8,
       name:'NB',
-      label: 'Bagging (DT)',
+      label: 'XG Boosting (DT)',
       logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
     },
     {
       id: 9,
       name:'NB',
-      label: 'XG Boosting (DT)',
-      logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
-    },
-    {
-      id: 10,
-      name:'NB',
       label: 'Ada Boosting (DT)',
       logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
     },
     {
-      id: 11,
-      name:'NB',
-      label: 'Ada Boosting (RF)',
-      logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'
-    },
-    {
-      id: 12,
+      id: 10,
       name:'NB',
       label: 'Feed Forward Neural Network',
       logo: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'

@@ -217,12 +217,10 @@ export default function SinglePredictPage() {
                             <option value="DT">DT</option>
                             <option value="RF">RF</option>
                             <option value="FFNN">FFNN</option>
-                            <option value="ST_NB_KNN_WITH_LR">ST_NB_KNN_WITH_LR</option>
                             <option value="ST_DT_SVM_RF_LR">ST_DT_SVM_RF_LR</option>
                             <option value="BG_DT">BG_DT</option>
                             <option value="XGB_DT">XGB_DT</option>
                             <option value="ADAB_DT">ADAB_DT</option>
-                            <option value="ADAB_RF">ADAB_RF</option>
                         </select>
                     </div>
                     <div className={classes.actions}>
